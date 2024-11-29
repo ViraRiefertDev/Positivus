@@ -1,11 +1,11 @@
 
-import { LogoImgWrapper,LogoImg} from './styles'
-import logo from '../../assets/images/home/logo.svg'
+import { LogoImgWrapper,LogoImage} from './styles'
+import { LogoProps } from './types';
 
-function Logo (){
+function Logo ({isfooter=false}:LogoProps){
   return (
-    <LogoImgWrapper>
-      <LogoImg src={logo}/>
+    <LogoImgWrapper isfooter={isfooter}>
+      <LogoImage isfooter={isfooter}/>
     </LogoImgWrapper> 
   )
 }

@@ -3,7 +3,7 @@ import Logo from "../../Logo/Logo";
 import Navigation from "../Navigation/Navigation";
 
 
-function MainHeader(){
+function Header(){
   return(
     <MainHeaderContainer>
       <Logo/>
@@ -12,4 +12,4 @@ function MainHeader(){
   )
 }
 
-export default MainHeader;
+export default Header;
