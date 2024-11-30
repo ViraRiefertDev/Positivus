@@ -1,12 +1,16 @@
 import styled from '@emotion/styled';
-import { Colors } from '../Main/Main/colors';
+
+interface MainButtonProps{
+  width:string;
+}
 
 
 
-export const MainButton = styled.button`
+
+export const MainButton = styled.button<MainButtonProps>`
 padding: 20px 35px;
 gap: 10px;
-width: 264px;
+width: ${({width})=>(width)};
 height: 68px;
 background: #191A23;
 border-radius: 14px;
