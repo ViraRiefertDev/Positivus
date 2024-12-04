@@ -6,7 +6,7 @@ function LearnMore({iswhite=false}:LearnMoreProps){
   return(
     <LearnMoreWrapper>
       <ArrowWrapper>
-        <Arrow iswhite={iswhite}/> 
+        <Arrow iswhite={iswhite.toString()}/> 
       </ArrowWrapper>
       <LearnMoreText iswhite={iswhite}>Learn more</LearnMoreText>
     </LearnMoreWrapper>

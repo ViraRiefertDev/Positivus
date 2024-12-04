@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const MarketingServicesContainer = styled.div`
   display: flex;
   gap: 108px;
-  padding: 60px 0;
+  margin: 60px 0 140px 0;
 `;
 export const MarketingServicesTextWrapper = styled.div`
   display: flex;
