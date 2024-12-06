@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/posivitus/static/css/main.31d6cfe0.css",
-    "main.js": "/posivitus/static/js/main.2972116d.js",
-    "static/media/MarketingImg.png": "/posivitus/static/media/MarketingImg.7e16415eb84be5fe6ce1.png",
-    "static/media/analytics.svg": "/posivitus/static/media/analytics.d72c61122c7796a15208851f2fce0244.svg",
-    "static/media/content.svg": "/posivitus/static/media/content.e14dd8e1d5f279448725d0458870ec4a.svg",
-    "static/media/email.svg": "/posivitus/static/media/email.2e010f55eb903df50d5636a0cce199e3.svg",
-    "static/media/payPerClick.svg": "/posivitus/static/media/payPerClick.6615e59bfe39f08d158177cd04164f1d.svg",
-    "static/media/social.svg": "/posivitus/static/media/social.e192746b9e141507ac7883b1c8220859.svg",
-    "static/media/search.svg": "/posivitus/static/media/search.821f566bdc3424abfc6b6cd4b307e1f9.svg",
-    "static/media/logo.svg": "/posivitus/static/media/logo.26c60b74858b46843d8df451a6ba6244.svg",
-    "static/media/contactBlockImg.svg": "/posivitus/static/media/contactBlockImg.4c73b3c798b287d2a08decf967c2df09.svg",
-    "static/media/socialIcons.svg": "/posivitus/static/media/socialIcons.7b7df06bda1c9b97cd711363c79a6d3a.svg",
-    "static/media/arrow.svg": "/posivitus/static/media/arrow.b9dcd8ec2d2ffd4ebd79614c060e427f.svg",
-    "index.html": "/posivitus/index.html",
-    "static/media/WPILine.svg": "/posivitus/static/media/WPILine.2be9730d07124f671611ed3279fda7c0.svg",
-    "main.2972116d.js.map": "/posivitus/static/js/main.2972116d.js.map"
+    "main.css": "/Posivitus/static/css/main.31d6cfe0.css",
+    "main.js": "/Posivitus/static/js/main.f63d8ded.js",
+    "static/media/MarketingImg.png": "/Posivitus/static/media/MarketingImg.7e16415eb84be5fe6ce1.png",
+    "static/media/analytics.svg": "/Posivitus/static/media/analytics.d72c61122c7796a15208851f2fce0244.svg",
+    "static/media/content.svg": "/Posivitus/static/media/content.e14dd8e1d5f279448725d0458870ec4a.svg",
+    "static/media/email.svg": "/Posivitus/static/media/email.2e010f55eb903df50d5636a0cce199e3.svg",
+    "static/media/payPerClick.svg": "/Posivitus/static/media/payPerClick.6615e59bfe39f08d158177cd04164f1d.svg",
+    "static/media/social.svg": "/Posivitus/static/media/social.e192746b9e141507ac7883b1c8220859.svg",
+    "static/media/search.svg": "/Posivitus/static/media/search.821f566bdc3424abfc6b6cd4b307e1f9.svg",
+    "static/media/logo.svg": "/Posivitus/static/media/logo.26c60b74858b46843d8df451a6ba6244.svg",
+    "static/media/contactBlockImg.svg": "/Posivitus/static/media/contactBlockImg.4c73b3c798b287d2a08decf967c2df09.svg",
+    "static/media/socialIcons.svg": "/Posivitus/static/media/socialIcons.7b7df06bda1c9b97cd711363c79a6d3a.svg",
+    "static/media/arrow.svg": "/Posivitus/static/media/arrow.b9dcd8ec2d2ffd4ebd79614c060e427f.svg",
+    "index.html": "/Posivitus/index.html",
+    "static/media/WPILine.svg": "/Posivitus/static/media/WPILine.2be9730d07124f671611ed3279fda7c0.svg",
+    "main.f63d8ded.js.map": "/Posivitus/static/js/main.f63d8ded.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.2972116d.js"
+    "static/js/main.f63d8ded.js"
   ]
 }
